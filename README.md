@@ -1,1 +1,1 @@
-# prime_and_palindrom
+Prime or not
